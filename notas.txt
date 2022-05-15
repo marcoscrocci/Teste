@@ -1,0 +1,13 @@
+- Criar o projeto:
+npx create-strapi-api expense-strapi
+
+Site do MongoDB:
+https://cloud.mongodb.com/
+
+Executar a aplicação:
+npm run develop
+
+expense
+tracker
+
+
