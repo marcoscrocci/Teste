@@ -44,6 +44,8 @@ Ajusda do Heroku:
 https://devcenter.heroku.com/articles/troubleshooting-node-deploys
 https://devcenter.heroku.com/articles/nodejs-support#specifying-a-node-js-version
 
+heroku restart -a expense-strapi
+heroku logs --tail
 
 
 
