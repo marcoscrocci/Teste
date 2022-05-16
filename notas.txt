@@ -36,6 +36,7 @@ heroku config:set USE_NPM_INSTALL=true
 heroku config:set NODE_MODULES_CACHE=false
 
 Enviar ao arquivos para deploy:
+heroku git:remote -a expense-strapi
 git add .
 git commit -am "Ajustes de deploy"
 git push heroku master
